@@ -20,14 +20,21 @@ The overworld sections of Pokémon Underground plays like Generation 3 Pokémon.
 There are two stat systems in this game. Pokémon stats and trainer stats. Pokémon stats can be seen just like in other Pokémon games, from the POKéMON menu. Trainer stats can be viewed by looking at your trainer card. (The option in the pause menu that says your filename). These stats are entirely disconnected.
 
 Pokémon stats are mostly the as Emerald, and thus I will not go into detail on them here.
+
 It is important to note, however, that the acronym for Experience Points has been changed from EXP to XP.
 
 Trainer stats are as followed.:
+
 HP - How much health you have.
+
 MAX - Your maximum HP.
+
 LOVE - This is the same stat as Undertale's LV stat, Level of Violence. The longer acronym is always used to not be confused with pokémon Level stat, LV.
+
 EXP - Execution Points.
+
 ATK - Attack.
+
 DEF - Defence.
 
 ## Battles
