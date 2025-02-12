@@ -1,4 +1,4 @@
-# Pokémon: Unedrground Version
+# Pokémon: Underground Version
 
 NOTE: What this README says is not reflective of the current state of Pokémon: Underground Version. This states everything that the game will eventually be. See the changelog to see what has actually been implemented in full.
 
@@ -11,7 +11,7 @@ The story is largely carried over from UNDERTALE, but adapted to the new world i
 The region of Ebott has had a complex history. In the modern day, only pokémon which have migrated from other regions can be found. However, long ago, this was not the case.
 It used to have a multitude of its own species. But one day, for reasons unknown, the humans and pokémon in this area turned against eachother, sparking years of war. Eventually, humanity proved victorious, and used seven of their greatest magicians to seal their enemies under the mountain in the center of the region.
 
-Over the years, seven trainers have went into this C, either by accident, or to find one of the many species that only could be found down there. None of them have been seen again. Now, it's up to you to go to Mt. Ebott and see what lies below. What happenss after that is up to you.
+Over the years, seven trainers have went into this cavern, either by accident, or to find one of the many species that only could be found down there. None of them have been seen again. Now, it's up to you to go to Mt. Ebott and see what lies below. What happenss after that is up to you.
 
 ## Gameplay
 
