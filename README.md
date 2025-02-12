@@ -57,3 +57,11 @@ The cap on the Friendship value depends on your LOVE. The higher your LOVE, the 
 
 ## Building
 See INSTALL.md
+
+## Console
+
+This game is intended to be ran under mGBA, and has only been tested on Windows 11. It should work on all Game Boy Advance emulators, but compatibility with the Game Boy Advance has not been tested.
+
+## Notice
+
+This is unaffiliated with The Pokémon Company, Game Freak, Creatures, Inc., and Toby Fox.
