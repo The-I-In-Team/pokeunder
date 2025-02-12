@@ -45,7 +45,7 @@ The player sends out their main Pokémon, and has four options:
 FIGHT, BAG, POKéMON, RUN.
 When you FIGHT, you have an option of four moves you can do, each with their own PP, Accuracy, and Power.
 BAG allows you to use any item you have collected on your journey.
-POKéMON allows you to swap your active party member. (Unless your battle mode is SET.)
+POKéMON allows you to swap your active party member.
 RUN allows you to flee from Pokémon. You cannot run from every battle.
 
 Depending on SPEED, either you or your opponent will go first. When your opponent goes, one of three things will happen.
