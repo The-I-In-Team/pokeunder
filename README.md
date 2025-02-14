@@ -8,7 +8,7 @@ The rest of this README contains spoilers for Pokémon: Underground Version, and
 
 ## Story
 
-The story is largely carried over from UNDERTALE, but adapted to the new world it takes place in.
+The story is largely carried over from Undertale, but adapted to the new world it takes place in.
 
 The region of Ebott has had a complex history. In the modern day, only pokémon which have migrated from other regions can be found. However, long ago, this was not the case.
 It used to have a multitude of its own species. But one day, for reasons unknown, the humans and pokémon in this area turned against eachother, sparking years of war. Eventually, humanity proved victorious, and used seven of their greatest magicians to seal their enemies under the mountain in the center of the region.
@@ -17,7 +17,7 @@ Over the years, seven trainers have gone into this cavern, either by accident, o
 
 ## Gameplay
 
-The overworld sections of Pokémon Underground plays like Pokémon Emerald. Press A to interact, press B to run, use the Directional Pad to move around, and press START to pause.
+The overworld sections of Pokémon Underground play like Pokémon Emerald, and thus won't be delved into.
 
 There are two stat systems in this game. Pokémon stats and trainer stats. Pokémon stats can be seen just like in other Pokémon games, from the POKéMON menu. Trainer stats can be viewed by looking at your trainer card. (The option in the pause menu that says your filename). These stats are entirely disconnected.
 
@@ -25,7 +25,7 @@ Pokémon stats are mostly the same as Emerald, and thus I will not go into detai
 
 It is important to note, however, that the acronym for Experience Points has been changed from EXP to XP.
 
-Trainer stats are as followed:
+Trainer stats are as follows:
 
 HP - How much health you have.
 
@@ -37,7 +37,7 @@ EXP - Execution Points.
 
 ATK - Attack.
 
-DEF - Defence.
+DEF - Defense.
 
 ## Battles
 
@@ -55,17 +55,18 @@ If your opponent has a blue attack indicator, it will attack your active pokémo
 If your opponent has an orange attack indicator, it will attack you. In this case, your soul enters a Bullet Board. In this case, UNDERTALE rules apply.
 If your opponent has a grey indicator, you can choose.
 
-When your opponent faints, you have two options. FIGHT, or MERCY. If you select FIGHT, you send your Active Pokémon to attack the fainted opponent. You will gain EXP, and extra XP. Your Active Pokémon will have their Friendship reduced slightly. If you select MERCY, the battle ends as normal, and you are awarded XP.
+When your opponent faints, you have two options. FIGHT, or MERCY. If you select FIGHT, you send your Active Pokémon to attack the fainted opponent, causing death. You will gain both EXP and XP. Your Active Pokémon will have their Friendship reduced slightly. If you select MERCY, the battle ends as normal, and you are awarded XP.
 
-There are two ways to lose a battle. If all of your Pokémon's HP reaches 0, you will white out, and get sent back to the last SAVE point while keeping any progress you made. If your HP reaches 0, you die, and get sent back to the last SAVE point without any of the progress you made.
+There are two ways to lose a battle. If all of your Pokémon faint, you will white out, and get sent back to the last SAVE point while keeping any progress you made. If your HP reaches 0, you die, and get sent back to the last SAVE point without any of the progress you made.
 
 ## Friendship
 
-Friendship works a little differently in Pokémon Underground. If your Friendship is too low, a Pokémon might not listen to you, with chances as low as 25%. When a Pokémon does not listen to you, you will get the message "But it refused!".
+Friendship works a little differently in Pokémon Underground. If your Friendship is too low, a pokémon might not listen to you, with chances as low as 25%. When a Pokémon does not listen to you, you will get the message "But it refused!".
 The cap on the Friendship value depends on your LOVE. The higher your LOVE, the lower the cap will be.
 
 ## Building
-See INSTALL.md
+
+It is recommended to download Pokémon Underground directly from the releases page of this repository. If you, however, want to build your own ROM, see BUILD.md.
 
 ## Console
 
