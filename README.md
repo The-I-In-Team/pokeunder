@@ -11,11 +11,11 @@ The story is largely carried over from UNDERTALE, but adapted to the new world i
 The region of Ebott has had a complex history. In the modern day, only pokémon which have migrated from other regions can be found. However, long ago, this was not the case.
 It used to have a multitude of its own species. But one day, for reasons unknown, the humans and pokémon in this area turned against eachother, sparking years of war. Eventually, humanity proved victorious, and used seven of their greatest magicians to seal their enemies under the mountain in the center of the region.
 
-Over the years, seven trainers have went into this cavern, either by accident, or to find one of the many species that only could be found down there. None of them have been seen again. Now, it's up to you to go to Mt. Ebott and see what lies below. What happenss after that is up to you.
+Over the years, seven trainers have gone into this cavern, either by accident, or to find one of the many species that only could be found down there. None of them have been seen again. Now, it's up to you to go to Mt. Ebott and see what lies below. What happens after that is up to you.
 
 ## Gameplay
 
-The overworld sections of Pokémon Underground plays like Generation 3 Pokémon. Press A to interact, press B to run, use the Directional Pad to move around, and press START to pause.
+The overworld sections of Pokémon Underground plays like Pokémon Emerald. Press A to interact, press B to run, use the Directional Pad to move around, and press START to pause.
 
 There are two stat systems in this game. Pokémon stats and trainer stats. Pokémon stats can be seen just like in other Pokémon games, from the POKéMON menu. Trainer stats can be viewed by looking at your trainer card. (The option in the pause menu that says your filename). These stats are entirely disconnected.
 
@@ -23,7 +23,7 @@ Pokémon stats are mostly the as Emerald, and thus I will not go into detail on 
 
 It is important to note, however, that the acronym for Experience Points has been changed from EXP to XP.
 
-Trainer stats are as followed.:
+Trainer stats are as followed:
 
 HP - How much health you have.
 
