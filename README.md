@@ -1,10 +1,12 @@
 # Pokémon: Underground Version
 
-NOTE: What this README says is not reflective of the current state of Pokémon: Underground Version. This states everything that the game will eventually be. See the changelog to see what has actually been implemented in full.
+NOTE: What this README says is not reflective of the current state of Pokémon: Underground Version. This states everything that the game will eventually be.
 
-Pokémon: Underground Version is a Generation 3 Pokémon fangame based on the source code of Pokémon: Emerald Version. The premise of this game is to reimagine the 2015 RPG UNDERTALE as if it was a 2004 Pokémon game. 
+Pokémon: Underground Version is a Generation 3 Pokémon fangame based on the source code of Pokémon: Emerald Version. The premise of this game is to reimagine the 2015 RPG UNDERTALE as if it was a Generation 3 Pokémon game. 
 
-## Story (Spoilers)
+The rest of this README contains spoilers for Pokémon: Underground Version, and by extention, UNDERTALE. It also expects you to have knowledge of both UNDERTALE and Pokémon: Emerald Version.
+
+## Story
 
 The story is largely carried over from UNDERTALE, but adapted to the new world it takes place in.
 
@@ -19,7 +21,7 @@ The overworld sections of Pokémon Underground plays like Pokémon Emerald. Pres
 
 There are two stat systems in this game. Pokémon stats and trainer stats. Pokémon stats can be seen just like in other Pokémon games, from the POKéMON menu. Trainer stats can be viewed by looking at your trainer card. (The option in the pause menu that says your filename). These stats are entirely disconnected.
 
-Pokémon stats are mostly the as Emerald, and thus I will not go into detail on them here.
+Pokémon stats are mostly the same as Emerald, and thus I will not go into detail on them here.
 
 It is important to note, however, that the acronym for Experience Points has been changed from EXP to XP.
 
@@ -59,7 +61,7 @@ There are two ways to lose a battle. If all of your Pokémon's HP reaches 0, you
 
 ## Friendship
 
-Friendship works a little differently in Pokémon Underground. If your Friendship is too low, a Pokémon might not listen to you, with chances as low as 25%.
+Friendship works a little differently in Pokémon Underground. If your Friendship is too low, a Pokémon might not listen to you, with chances as low as 25%. When a Pokémon does not listen to you, you will get the message "But it refused!".
 The cap on the Friendship value depends on your LOVE. The higher your LOVE, the lower the cap will be.
 
 ## Building
